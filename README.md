@@ -5,7 +5,7 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 [Proyecto Desplegado (https://clon-google-b7-g2-one.vercel.app/)](https://clon-google-b7-g2-one.vercel.app/)
 ## Secciones de mi sitio
 
-![Clon de google](assets\readme\google.png)
+![Clon de google](assets/Readme/google.png)
 
 ## Tecnologías
 * HTML
